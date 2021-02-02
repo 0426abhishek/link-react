@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# Getting Started with Create Link React App
+
+
+## Display a table with all the transactions. One transaction on each row. The columns should be:
+## Created_at
+## Sales_reference ○ amount
+## Detect missing transactions
+## Leave an empty row for those transactions that are missing.
+## Allow the user to create manually the transaction for those that are missing. When creating the transaction, the user should only enter the amount.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
